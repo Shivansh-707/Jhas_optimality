@@ -1,6 +1,8 @@
 # Jhas_optimality
 The python code implementation for the Research Paper : "Assignment problem (maximization): A new approach"
 
+# break through : Space complexity reduced from O(N^2) for standard hungarian algorithm to O(N)
+
 # Publication
 
 Title: Assignment Problem (Maximization): A New Approach
